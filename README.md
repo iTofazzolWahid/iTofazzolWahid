@@ -1,22 +1,15 @@
 <h1 align="center">hello there👋, I'm Tofazzol Wahid</h1>
 <h3 align="center">A Junior front-end developer.</h3>
-<img align="right" alt="Coding" width="600" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e479a7cs3rpvwenjl31vmlp9rkc1umykuflx19sibnu&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="500" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e479a7cs3rpvwenjl31vmlp9rkc1umykuflx19sibnu&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itofazzolwahid&label=Profile%20views&color=0e75b6&style=flat" alt="itofazzolwahid" /> </p>
 
 <p align="left"> <a href="https://twitter.com/itofazzolwahid" target="blank"><img src="https://img.shields.io/twitter/follow/itofazzolwahid?logo=twitter&style=for-the-badge" alt="itofazzolwahid" /></a> </p>
 
 - 🔭 I’m currently working on **Web project's**
-
 - 🌱 I’m currently learning **Cool Things**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
-
 - 🤝 I’m looking for help with **Fixing my Coding Addiction**
-
-- 👨‍💻 All of my projects are available at [https://tofazzol-wahid.netlify.app/](https://tofazzol-wahid.netlify.app/)
-
 - 💬 Ask me about **Javascript,React,CSS Framework**
-
 - ⚡ Fun fact **I love to Read Manga and Watch Anime.**
 
 <h3 align="left">Connect with me:</h3>
